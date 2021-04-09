@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/api.jsp=UTF-8
+encoding//src/com/file/UploadServlet.java=UTF-8
+encoding//src/com/ocr/ApiServlet.java=UTF-8
+encoding//src/com/ocr/OcrServlet.java=UTF-8
+encoding//src/com/ocr/ZcOcrServlet.java=UTF-8
+encoding//src/log4j.properties=UTF-8
